@@ -1,19 +1,16 @@
 # Alura
 Repositorio para incorporar desarrollos correspondientes a los cursos de Alura
-Usmito es el asistente virtual del área de RRHH de Excelence: un chatbot con RAG (Retrieval-Augmented Generation) que responde únicamente con la información oficial de la clínica y ayuda a agendar citas dentro del propio chat.
+Usmito es el asistente virtual del área de RRHH de Excelence Desarrollo de Software: un chatbot con RAG (Retrieval-Augmented Generation) que responde preguntas relacionadas a las políticas de RRHH de la empresa.
 
 Características principales:
-• Respuestas fundamentadas solo en la base de conocimiento (sin alucinar).
-• Citación de la fuente utilizada en cada respuesta.
-• Agendamiento de citas mediante un agente con herramientas.
-• Historial conversacional para preguntas de seguimiento.
-• Se identifica siempre como asistente digital (IA) y escala a WhatsApp cuando no tiene el dato.
-• Trazabilidad: registro de cada interacción para auditoría.
+• Carga de las políticas de RRHH ubicada en tres documentos PDF.
+• Realización de preguntas por empleados de la empresa.
+• Respuesta a las preguntas realizadas por los empleados.
+
 
 Tecnologías utilizadas:
-• Backend: Python, FastAPI, LangChain, Google Gemini, ChromaDB.
-• Frontend: HTML, CSS y JavaScript (interfaz propia).
-• Despliegue: Docker en la nube, accesible por URL pública con HTTPS.
+• Backend: Python, LangChain, Google Gemini.
+• Frontend: HTML, CSS y JavaScript (pendiente).
 • Control de versiones: Git y GitHub.
 
 Repositorio:
