@@ -16,11 +16,3 @@ Tecnologías utilizadas:
 Repositorio:
 https://github.com/SantHdz/challenge_Trompitas_Bot
 
-Aplicación desplegada:
-https://cindy-trompitas.onrender.com/
-
-Nota: la app está en un plan gratuito, así que si el enlace tarda en cargar es porque "despierta" tras inactividad (~1 min). En el repositorio hay una guía paso a paso para probarla localmente.
-
-Sin duda terminar el reto fue verdaderamente una experiencia muy intensa que aprecio y valoro infinitamente.
-
-¡Muchas gracias a Alura Latam y Oracle Next Education por este reto y por todo el aprendizaje! 🚀
