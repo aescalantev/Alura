@@ -14,5 +14,5 @@ Tecnologías utilizadas:
 • Control de versiones: Git y GitHub.
 
 Repositorio:
-https://github.com/SantHdz/challenge_Trompitas_Bot
+[https://github.com/aescalantev/Alura.git]
 
